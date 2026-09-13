@@ -1,0 +1,17 @@
+{
+  "name": "見積・請求",
+  "short_name": "見積・請求",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ed",
+  "theme_color": "#f4f1ed",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
